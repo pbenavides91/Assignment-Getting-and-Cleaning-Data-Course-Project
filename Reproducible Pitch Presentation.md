@@ -1,7 +1,7 @@
 Course Project - Shiny Application and Reproducible Pitch
 ========================================================
-author: Magnolia
-date: 13 April 2017
+author: Pablo Benavides
+date: 05 November 2017
 autosize: true
 
 Overview
